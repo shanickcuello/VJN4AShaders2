@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EJ4_Glitch
+  m_Shader: {fileID: 4800000, guid: 75e4237945e1d8b4794032ff4032c6c4, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _DistAmountB: 0.3
+    - _DistAmountG: 0.14
+    - _DistAmountR: 0.3
+    - _MinAmountB: 0.3
+    - _MinAmountG: 0.3
+    - _MinAmountR: 0.3
+    - _ScaleBlue: 4
+    - _ScaleGreen: 4
+    - _ScaleRed: 4
+    - _TimeBlue: 10
+    - _TimeGreen: 10
+    - _TimeRed: 10
+    - _TimeScale: 1
+    - _mySinTime: 2
+    m_Colors: []

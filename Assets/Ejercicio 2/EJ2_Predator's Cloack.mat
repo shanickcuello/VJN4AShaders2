@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EJ2_Predator's Cloack
+  m_Shader: {fileID: 4800000, guid: 5e91f4a58534d18488bdc5a25de10f2d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: e7dbcb6a89bacf04f8a8e3c2382610e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: 2bbd65c7380c2c6499ce4a8ad58c0b10, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: bf00c8fccda396c4aac04e4ad4ac1a0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap1:
+        m_Texture: {fileID: 2800000, guid: 2bbd65c7380c2c6499ce4a8ad58c0b10, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PatternTexture:
+        m_Texture: {fileID: 2800000, guid: 69dc29d658644a548b184956107f9bb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PatternTexture1:
+        m_Texture: {fileID: 2800000, guid: 69dc29d658644a548b184956107f9bb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 2bbd65c7380c2c6499ce4a8ad58c0b10, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: c987be1ee0ef6cd449b2b22e377d1308, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: bb78f7baf3f41af4fa26c78f69b2bd0a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ActiveInvisibility: 1
+    - _ActiveInvisibility1: 1
+    - _FallOff: 1.05
+    - _FallOff1: 1.08
+    - _Float0: 0.3
+    - _Float1: 2
+    - _Float10: 0.3
+    - _Float11: 0.4
+    - _Float2: -5.5
+    - _Float8: 0.44
+    - _Float9: 6.459609
+    - _Index: 0
+    - _LineWidth: 0.16
+    - _LineWidth1: 0.07
+    - _Lines: 1
+    - _Lines1: 1
+    - _Opacity: 0
+    - _Radius: 3.8
+    - _Radius1: 11.23
+    - _Random1: 0.95
+    - _RefractionIndex: 0.9891
+    - _TimeScale: 3
+    - _TimeScale1: 3
+    - __dirty: 0
+    m_Colors:
+    - _PointPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Tint1: {r: 0, g: 1.403922, b: 2, a: 0}
+    - _Tint2: {r: 0, g: 4.541205, b: 0.4041911, a: 0}
+    - _TransitionColor: {r: 0, g: 39.20418, b: 63.999992, a: 0}
